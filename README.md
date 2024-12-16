@@ -85,7 +85,3 @@ chess-mania/
 - [Socket.IO](https://socket.io): Enabled real-time communication between clients and the server.
 
 ---
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
