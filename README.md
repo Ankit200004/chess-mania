@@ -1,4 +1,3 @@
-
 # Chess Mania
 
 Chess Mania is a real-time, multiplayer chess game built with Node.js, Express, and Socket.IO. It allows two players to compete against each other while spectators can observe the game.
